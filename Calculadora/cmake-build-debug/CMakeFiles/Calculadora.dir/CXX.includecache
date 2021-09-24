@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Coron/OneDrive/Escritorio/Technology/ComputationI/TareasYProyectos/Calculadora/Calculadora.cpp
+iostream
+-
+cmath
+-
+
