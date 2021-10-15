@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/Puntos/Punto.h
+vector
+-
+
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/Puntos/Puntos.cpp
+iostream
+-
+Punto.h
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/Puntos/Punto.h
+
