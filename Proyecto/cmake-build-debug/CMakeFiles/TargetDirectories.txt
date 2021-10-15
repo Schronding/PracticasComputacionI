@@ -1,3 +1,0 @@
-C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir
-C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
