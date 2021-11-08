@@ -1,0 +1,18 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_02110\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_02110.dir\build.make /nologo -L                  CMakeFiles\cmTC_02110.dir\build
+Building C object CMakeFiles/cmTC_02110.dir/CMakeCCompilerABI.c.obj
+	"C:\Users\Coron\AppData\Local\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_02110.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Coron\OneDrive\Escritorio\GitHub\PracticasComputacionI\CargaElectrica\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\Coron\AppData\Local\Temp\nmD5DE.tmp
+Linking C executable cmTC_02110.exe
+	"C:\Users\Coron\AppData\Local\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_02110.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_02110.dir\objects1.rsp @C:\Users\Coron\AppData\Local\Temp\nmDF26.tmp
+FINAL LINK: command "C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_02110.dir\objects1.rsp /out:cmTC_02110.exe /implib:cmTC_02110.lib /pdb:C:\Users\Coron\OneDrive\Escritorio\GitHub\PracticasComputacionI\CargaElectrica\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_02110.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_02110.dir/intermediate.manifest CMakeFiles\cmTC_02110.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_02110.exe for writing
+NMAKE : fatal error U1077: '"C:\Users\Coron\AppData\Local\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/CargaElectrica.cpp
+iostream
+-
+array
+-
+string
+-
+Grupo.h
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/Grupo.cpp
+Grupo.h
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+Grupo.h
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+
+C:/Users/Coron/OneDrive/Escritorio/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+string
+-
+
